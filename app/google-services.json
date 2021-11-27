@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42429983071",
+    "project_id": "seva-c3f2d",
+    "storage_bucket": "seva-c3f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42429983071:android:46f14c2011a381226aaeea",
+        "android_client_info": {
+          "package_name": "com.atria.seva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42429983071-n91gmrd02i18ep4mo87j590h22s3lu6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYaPZrApjs6_RxENiO2GBAuPtLIVU5Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42429983071-n91gmrd02i18ep4mo87j590h22s3lu6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
